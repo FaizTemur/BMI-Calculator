@@ -1,0 +1,18 @@
+body
+{
+  background-color: lightblue ;
+  background-attachment: fixed;
+  background-image: url(./bmi-body-mass-index-and-weight-loss-banner-background-2GGJTW9.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+h1
+{
+  border-style :solid;
+  border-color: blue;
+  border-radius: 1px;
+  border: width 40px;;
+  background-color: white;
+  
+}
